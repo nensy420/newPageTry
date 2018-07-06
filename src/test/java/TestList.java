@@ -20,6 +20,10 @@ public class TestList {
     public void testList() {
 
     }
+    @Test
+    public void testList1() {
+        System.out.println("Hello");
+    }
 
 
 }
