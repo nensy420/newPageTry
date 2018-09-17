@@ -31,6 +31,11 @@ public class TestList {
         System.out.println("Hello twice");
     }
 
+    @Test
+    public void testList3() {
+
+        System.out.println("Hello third");
+    }
 
 
 }
