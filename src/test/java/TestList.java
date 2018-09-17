@@ -25,5 +25,12 @@ public class TestList {
         System.out.println("Hello");
     }
 
+    @Test
+    public void testList2() {
+
+        System.out.println("Hello twice");
+    }
+
+
 
 }
