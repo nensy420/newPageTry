@@ -26,16 +26,14 @@ public class TestList {
     }
 
     @Test
-    public void testList2() {
-
-        System.out.println("Hello twice");
-    }
-
-    @Test
     public void testList3() {
 
         System.out.println("Hello third");
     }
+    @Test
+    public void testList4() {
 
-
+        System.out.println("Hello third");
+    }
+    
 }
